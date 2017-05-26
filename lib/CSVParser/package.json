@@ -1,0 +1,4 @@
+{
+  "name": "CSVParser",
+  "main": "./CSVParser.js"
+}

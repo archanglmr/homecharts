@@ -1,0 +1,4 @@
+{
+  "name": "CSVRowTransformer",
+  "main": "./CSVRowTransformer.js"
+}

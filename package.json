@@ -1,0 +1,19 @@
+{
+  "name": "homecharts",
+  "version": "1.0.0",
+  "description": "Simple app to chart stats about my house",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "ecobee": "node import/ecobee/ecobee.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "zingchart": "^2.6.0"
+  }
+}

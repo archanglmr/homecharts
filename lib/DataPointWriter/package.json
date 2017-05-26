@@ -1,0 +1,4 @@
+{
+  "name": "DataPointWriter",
+  "main": "./DataPointWriter.js"
+}
